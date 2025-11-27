@@ -664,5 +664,38 @@
     "category": "GENERAL",
     "status": "ACTIVE",
     "startTime": 1764242014832
+  },
+  {
+    "sessionId": "436a1865-e5b4-4844-8fa8-645ed6024e5f",
+    "category": "TENANT",
+    "status": "ACTIVE",
+    "startTime": 1764244830150
+  },
+  {
+    "sessionId": "02d7864e-1f76-4916-a91a-521d561df8c2",
+    "category": "GENERAL",
+    "status": "COMPLETED",
+    "startTime": 1764244851918,
+    "endTime": 1764244855904
+  },
+  {
+    "sessionId": "67796009-548d-499b-9e63-f934a579882f",
+    "category": "TENANT",
+    "status": "COMPLETED",
+    "startTime": 1764244929806,
+    "endTime": 1764244938519
+  },
+  {
+    "sessionId": "b362391b-4d38-4a70-95c4-ba5f1c66779a",
+    "category": "WORKPLACE",
+    "status": "ACTIVE",
+    "startTime": 1764244982982
+  },
+  {
+    "sessionId": "fb2d3b31-a69b-4a7a-9df5-8c1c25028b31",
+    "category": "WORKPLACE",
+    "status": "COMPLETED",
+    "startTime": 1764249395052,
+    "endTime": 1764249687279
   }
 ]
