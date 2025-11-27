@@ -14,6 +14,8 @@ process.on("uncaughtException", (error) => {
 
 const express = require("express");
 const path = require("path");
+// app.js
+
 const fs = require("fs").promises;
 const { v4: uuidv4 } = require("uuid");
 const multiAIService = require("./services/AIService");
@@ -23,7 +25,8 @@ const { RtcTokenBuilder, RtcRole } = AgoraAccessToken;
 
 const app = express();
 const PORT = process.env.PORT || 5000;
-
+const assetsPath = path.join(__dirname, "public");
+app.use(express.static(assetsPath));
 // Middleware
 app.set("view engine", "ejs");
 app.set("views", path.join(__dirname, "views"));
@@ -119,8 +122,8 @@ class AgoraService {
 // --- ROUTES ---
 
 // 1. Pages
-app.get("/", (req, res) => res.render("index"));
-
+app.get("/", (req, res) => res.render("home"));
+app.get("/call", (req, res) => res.render("dashboard"));
 app.get("/call/:sessionId", async (req, res) => {
   const session = await JSONService.findOne(
     "sessions",

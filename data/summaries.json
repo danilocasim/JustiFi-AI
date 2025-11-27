@@ -111,5 +111,115 @@
     "nextAction": "Contact the local barangay hall to inquire about the process for reporting concerns or incidents",
     "totalTranscripts": 2,
     "createdAt": 1764218699417
+  },
+  {
+    "sessionId": "0e5fd8c6-0fc8-44f1-a3f3-d40205b9fdb3",
+    "situation": "Tenant was jokingly accused of murder but the actual reason for eviction is unknown",
+    "relevantLaws": [
+      "Republic Act No. 6552 (Mandatory Rent Deposit Act)",
+      "Presidential Decree No. 603 (Child and Youth Welfare Code)",
+      "Republic Act No. 7279 (Urban Development and Housing Act)"
+    ],
+    "recommendedSteps": [
+      "Gather all relevant documents and evidence related to the tenancy",
+      "Seek clarification on the actual reason for eviction from the landlord",
+      "Consult with a lawyer to understand tenant rights and potential legal actions"
+    ],
+    "contacts": {
+      "Department of Justice": "(+632) 523 8481",
+      "Housing and Land Use Regulatory Board (HLURB)": "(+632) 527 4000",
+      "Philippine National Police": "117 or (+632) 723 0401"
+    },
+    "nextAction": "Seek clarification on the actual reason for eviction from the landlord",
+    "totalDuration": 0,
+    "aiTalkTime": 0,
+    "humanTalkTime": 0,
+    "conversationTurns": 0,
+    "createdAt": 1764219798392
+  },
+  {
+    "sessionId": "0e5fd8c6-0fc8-44f1-a3f3-d40205b9fdb3",
+    "situation": "The user was evicted from their home due to non-payment of rent. Initially, the user made a joke about killing their landlord, but it was later revealed that the actual issue was the user's failure to pay rent.",
+    "relevantLaws": [
+      "The Rent Control Act of 2009 (Republic Act No. 9653)",
+      "The Civil Code of the Philippines (Republic Act No. 386) - Articles 1670-1688 on Lease Contracts"
+    ],
+    "recommendedSteps": [
+      "Communicate with the landlord to negotiate a possible resolution or payment plan",
+      "Seek assistance from the barangay or local government to mediate the dispute",
+      "Review the lease contract to understand the terms and conditions",
+      "Consider seeking legal advice from the Public Attorney's Office (PAO) or a private lawyer"
+    ],
+    "watchOutFor": [
+      "Deadline for payment of rent to avoid further penalties or eviction",
+      "Possible filing of a case against the user for non-payment of rent",
+      "Landlord's compliance with the mandatory 30-day notice period for eviction"
+    ],
+    "contacts": {
+      "PNP": "911 (emergency), 8888 (non-emergency reporting)",
+      "Barangay": "Local barangay hall hotline",
+      "PAO (Public Attorney's Office)": "(02) 8426-2075 / nearest district office",
+      "DSWD": "1343 Actionline"
+    },
+    "nextAction": "Contact the landlord to negotiate a possible resolution or payment plan and seek assistance from the barangay or local government to mediate the dispute",
+    "totalTranscripts": 10,
+    "createdAt": 1764219829594
+  },
+  {
+    "sessionId": "0e5fd8c6-0fc8-44f1-a3f3-d40205b9fdb3",
+    "situation": "Tenant was asked to vacate the premises with 1 year left in the contract",
+    "relevantLaws": [
+      "Republic Act No. 6552 (Rent Control Act of 1972)",
+      "Republic Act No. 8974 (An Act to Provide for the Rental Housing Subsidy to the Marginalized and Underprivileged Sector)",
+      "Presidential Decree No. 603 (Child and Youth Welfare Code)"
+    ],
+    "recommendedSteps": [
+      "Review the contract to understand the terms and conditions of the lease",
+      "Check if the landlord provided a valid notice to vacate as per the contract or relevant laws",
+      "Document all communication with the landlord, including dates and details of agreements or disagreements"
+    ],
+    "contacts": {
+      "Department of Human Settlements and Urban Development (DHSUD)": "(+632) 781-3195",
+      "Housing and Land Use Regulatory Board (HLURB)": "(+632) 784-4831",
+      "Philippine National Police (PNP) - Anti-Cybercrime Group": "(+632) 723-0401"
+    },
+    "nextAction": "Review the contract to understand the terms and conditions of the lease and check for any notice to vacate",
+    "totalDuration": 0,
+    "aiTalkTime": 0,
+    "humanTalkTime": 0,
+    "conversationTurns": 0,
+    "createdAt": 1764219934656
+  },
+  {
+    "sessionId": "0e5fd8c6-0fc8-44f1-a3f3-d40205b9fdb3",
+    "situation": "The user was evicted from their home by their landlord without prior notice, despite having a contract that still has one year left. The eviction was sudden, with the landlord breaking the door and removing the user's belongings. The user had missed rent payments, but there was no formal notice given before the eviction.",
+    "relevantLaws": [
+      "Rent Control Act (Republic Act No. 9653)",
+      "Civil Code of the Philippines (Article 1673 on contracts)",
+      "Urban Development and Housing Act (Republic Act No. 7279) on eviction procedures"
+    ],
+    "recommendedSteps": [
+      "Document all evidence related to the eviction, including photos and witness statements",
+      "Seek assistance from the Public Attorney's Office (PAO) for legal advice and representation",
+      "File a complaint with the barangay or local authorities regarding the illegal eviction",
+      "Consider filing a case for unlawful detainer or breach of contract",
+      "Look for temporary housing and explore options for rent assistance"
+    ],
+    "watchOutFor": [
+      "Further harassment or intimidation by the landlord",
+      "Loss of personal belongings or important documents",
+      "Prescription periods for filing cases related to the eviction",
+      "Potential for the landlord to dispose of or damage the user's belongings"
+    ],
+    "contacts": {
+      "PNP": "911 (emergency), 8888 (non-emergency reporting)",
+      "Barangay": "Local barangay hall hotline",
+      "PAO (Public Attorney's Office)": "(02) 8426-2075 / nearest district office",
+      "DSWD": "1343 Actionline",
+      "NBI": "(02) 8523-8231"
+    },
+    "nextAction": "Contact the Public Attorney's Office (PAO) to seek legal advice and assistance regarding the eviction",
+    "totalTranscripts": 30,
+    "createdAt": 1764220033113
   }
 ]

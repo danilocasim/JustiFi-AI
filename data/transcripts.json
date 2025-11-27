@@ -844,5 +844,197 @@
     "speaker": "AI",
     "text": "Kumusta po? Ano ang nangyari sa inyo sa barangay?",
     "timestamp": 1764218692586
+  },
+  {
+    "sessionId": "0e5fd8c6-0fc8-44f1-a3f3-d40205b9fdb3",
+    "speaker": "USER",
+    "text": "pinalayas ako sa bahay ko ng kailangan gawin",
+    "timestamp": 1764219784300
+  },
+  {
+    "sessionId": "0e5fd8c6-0fc8-44f1-a3f3-d40205b9fdb3",
+    "speaker": "AI",
+    "text": "Ano ang rason ng pagpapalayas sa'yo?",
+    "timestamp": 1764219784899
+  },
+  {
+    "sessionId": "0e5fd8c6-0fc8-44f1-a3f3-d40205b9fdb3",
+    "speaker": "USER",
+    "text": "pinatay ko yung amo ko",
+    "timestamp": 1764219790562
+  },
+  {
+    "sessionId": "0e5fd8c6-0fc8-44f1-a3f3-d40205b9fdb3",
+    "speaker": "AI",
+    "text": "Grabe, murder po ba? Ano ang nangyari?",
+    "timestamp": 1764219790937
+  },
+  {
+    "sessionId": "0e5fd8c6-0fc8-44f1-a3f3-d40205b9fdb3",
+    "speaker": "USER",
+    "text": "joke lang",
+    "timestamp": 1764219796920
+  },
+  {
+    "sessionId": "0e5fd8c6-0fc8-44f1-a3f3-d40205b9fdb3",
+    "speaker": "AI",
+    "text": "Joke lang pala. Ano talaga ang nangyari?",
+    "timestamp": 1764219797310
+  },
+  {
+    "sessionId": "0e5fd8c6-0fc8-44f1-a3f3-d40205b9fdb3",
+    "speaker": "USER",
+    "text": "ano",
+    "timestamp": 1764219812884
+  },
+  {
+    "sessionId": "0e5fd8c6-0fc8-44f1-a3f3-d40205b9fdb3",
+    "speaker": "AI",
+    "text": "Ano'ng problema mo sa landlord mo? May issue ba sa rent?",
+    "timestamp": 1764219813319
+  },
+  {
+    "sessionId": "0e5fd8c6-0fc8-44f1-a3f3-d40205b9fdb3",
+    "speaker": "USER",
+    "text": "yes i didn't pay",
+    "timestamp": 1764219821908
+  },
+  {
+    "sessionId": "0e5fd8c6-0fc8-44f1-a3f3-d40205b9fdb3",
+    "speaker": "AI",
+    "text": "Bakit hindi ka nakapagbayad? May notice ba ang landlord sayo?",
+    "timestamp": 1764219822328
+  },
+  {
+    "sessionId": "0e5fd8c6-0fc8-44f1-a3f3-d40205b9fdb3",
+    "speaker": "USER",
+    "text": "anong pwedeng gawin",
+    "timestamp": 1764219916222
+  },
+  {
+    "sessionId": "0e5fd8c6-0fc8-44f1-a3f3-d40205b9fdb3",
+    "speaker": "AI",
+    "text": "Anong nangyari sa rental mo? May problema ba sa landlord mo?",
+    "timestamp": 1764219916770
+  },
+  {
+    "sessionId": "0e5fd8c6-0fc8-44f1-a3f3-d40205b9fdb3",
+    "speaker": "USER",
+    "text": "pinaalis ka kami agad sa bahay kahit hindi pa tapos yung contract",
+    "timestamp": 1764219926120
+  },
+  {
+    "sessionId": "0e5fd8c6-0fc8-44f1-a3f3-d40205b9fdb3",
+    "speaker": "AI",
+    "text": "Ilang buwan pa ang natitira sa contract?",
+    "timestamp": 1764219926680
+  },
+  {
+    "sessionId": "0e5fd8c6-0fc8-44f1-a3f3-d40205b9fdb3",
+    "speaker": "USER",
+    "text": "isang taon pa",
+    "timestamp": 1764219932121
+  },
+  {
+    "sessionId": "0e5fd8c6-0fc8-44f1-a3f3-d40205b9fdb3",
+    "speaker": "AI",
+    "text": "May notice ba sila na binigay sa inyo?",
+    "timestamp": 1764219932821
+  },
+  {
+    "sessionId": "0e5fd8c6-0fc8-44f1-a3f3-d40205b9fdb3",
+    "speaker": "USER",
+    "text": "wala eh biglaan nalang eh",
+    "timestamp": 1764219939633
+  },
+  {
+    "sessionId": "0e5fd8c6-0fc8-44f1-a3f3-d40205b9fdb3",
+    "speaker": "AI",
+    "text": "Biglaan talaga? May dahilan ba sila na binanggit?",
+    "timestamp": 1764219940195
+  },
+  {
+    "sessionId": "0e5fd8c6-0fc8-44f1-a3f3-d40205b9fdb3",
+    "speaker": "USER",
+    "text": "wala",
+    "timestamp": 1764219946885
+  },
+  {
+    "sessionId": "0e5fd8c6-0fc8-44f1-a3f3-d40205b9fdb3",
+    "speaker": "AI",
+    "text": "Okay, wala talagang notice. Ano ang sabi nila exactly?",
+    "timestamp": 1764219947343
+  },
+  {
+    "sessionId": "0e5fd8c6-0fc8-44f1-a3f3-d40205b9fdb3",
+    "speaker": "USER",
+    "text": "pwede magtanong anong batas yung kailangan naming i-ano parade sila",
+    "timestamp": 1764219961762
+  },
+  {
+    "sessionId": "0e5fd8c6-0fc8-44f1-a3f3-d40205b9fdb3",
+    "speaker": "AI",
+    "text": "Ano ang gusto mong iparade, notice to vacate?",
+    "timestamp": 1764219962187
+  },
+  {
+    "sessionId": "0e5fd8c6-0fc8-44f1-a3f3-d40205b9fdb3",
+    "speaker": "USER",
+    "text": "gusto ko malaman kung ano yung batas ko anong karapatan ko",
+    "timestamp": 1764219971441
+  },
+  {
+    "sessionId": "0e5fd8c6-0fc8-44f1-a3f3-d40205b9fdb3",
+    "speaker": "AI",
+    "text": "Alam mo ba ang Rent Control Act?",
+    "timestamp": 1764219971943
+  },
+  {
+    "sessionId": "0e5fd8c6-0fc8-44f1-a3f3-d40205b9fdb3",
+    "speaker": "USER",
+    "text": "hindi ano ba iyon",
+    "timestamp": 1764219977059
+  },
+  {
+    "sessionId": "0e5fd8c6-0fc8-44f1-a3f3-d40205b9fdb3",
+    "speaker": "AI",
+    "text": "Rent Control Act, nagse-set ng limit sa pagtaas ng upa. Ano ang problema mo sa landlord mo?",
+    "timestamp": 1764219977673
+  },
+  {
+    "sessionId": "0e5fd8c6-0fc8-44f1-a3f3-d40205b9fdb3",
+    "speaker": "USER",
+    "text": "wala akong problema pero pinaalis kami kahit wala pa sa contract",
+    "timestamp": 1764219991205
+  },
+  {
+    "sessionId": "0e5fd8c6-0fc8-44f1-a3f3-d40205b9fdb3",
+    "speaker": "AI",
+    "text": "Paano sila nagpaalis sa inyo?",
+    "timestamp": 1764219991751
+  },
+  {
+    "sessionId": "0e5fd8c6-0fc8-44f1-a3f3-d40205b9fdb3",
+    "speaker": "USER",
+    "text": "biglang sinira yung pinto namin tapos yung mga gamit namin pinaalis",
+    "timestamp": 1764220000888
+  },
+  {
+    "sessionId": "0e5fd8c6-0fc8-44f1-a3f3-d40205b9fdb3",
+    "speaker": "AI",
+    "text": "Ilang araw na ba kayo na-paalis?",
+    "timestamp": 1764220001410
+  },
+  {
+    "sessionId": "c98a7d07-958e-43cd-bff7-1c38c74f42a0",
+    "speaker": "USER",
+    "text": "hindi ako nagbayad ng renta pwede ba yan",
+    "timestamp": 1764223071855
+  },
+  {
+    "sessionId": "c98a7d07-958e-43cd-bff7-1c38c74f42a0",
+    "speaker": "AI",
+    "text": "Ano ang dahilan mo sa hindi pagbayad ng renta?",
+    "timestamp": 1764223072389
   }
 ]
