@@ -447,5 +447,96 @@
     "humanTalkTime": 0,
     "conversationTurns": 0,
     "createdAt": 1764292489184
+  },
+  {
+    "sessionId": "c1f5ae59-e6e7-4315-95cc-ec48762f0c8d",
+    "situation": "Tenant was evicted by landlord due to non-payment of monthly rent",
+    "relevantLaws": [
+      "Republic Act No. 9653 (Rent Control Act of 2009)",
+      "Republic Act No. 11291 (Residential Free Patent Act)",
+      "Presidential Decree No. 1091 (Urban Land Reform Law)"
+    ],
+    "recommendedSteps": [
+      "Review the eviction notice and check if it complies with the requirements of the law",
+      "Check if the landlord followed the correct procedure for eviction",
+      "File a complaint with the appropriate government agency if the eviction is deemed unlawful"
+    ],
+    "contacts": {
+      "Department of Human Settlements and Urban Development (DHSUD)": "(+632) 781-4971",
+      "Housing and Land Use Regulatory Board (HLURB)": "(+632) 784-4833",
+      "Barangay Office": "varies per location"
+    },
+    "nextAction": "Review the eviction notice and check if it complies with the requirements of the law",
+    "totalDuration": 0,
+    "aiTalkTime": 0,
+    "humanTalkTime": 0,
+    "conversationTurns": 0,
+    "createdAt": 1764304631505
+  },
+  {
+    "sessionId": "c1f5ae59-e6e7-4315-95cc-ec48762f0c8d",
+    "situation": "The user was evicted by their landlord due to non-payment of monthly rent. The user is seeking guidance on the next steps to take.",
+    "relevantLaws": [
+      "The Rent Control Act of 2009 (Republic Act No. 9653)",
+      "The Civil Code of the Philippines (Article 1673)",
+      "The Revised Penal Code (Article 548)"
+    ],
+    "recommendedSteps": [
+      1,
+      "Seek assistance from the barangay to mediate the dispute with the landlord",
+      2,
+      "File a complaint with the Regional Trial Court if the eviction was done without proper notice or in violation of the Rent Control Act",
+      3,
+      "Look for alternative housing arrangements",
+      4,
+      "Prioritize payment of rent arrears to avoid further complications"
+    ],
+    "watchOutFor": [
+      "Landlord harassment or intimidation",
+      "Unreasonable demands for payment or eviction",
+      "Destruction or removal of personal belongings",
+      "Prescription period for filing a case (usually 1 year)"
+    ],
+    "contacts": {
+      "PNP": "911 (emergency), 8888 (non-emergency reporting)",
+      "Barangay": "Local barangay hall hotline",
+      "PAO (Public Attorney's Office)": "(02) 8426-2075 / nearest district office",
+      "DSWD": "1343 Actionline",
+      "NBI": "(02) 8523-8231"
+    },
+    "nextAction": "Contact the barangay to report the eviction and seek assistance in mediating the dispute with the landlord",
+    "totalTranscripts": 6,
+    "createdAt": 1764304638835
+  },
+  {
+    "sessionId": "18c14830-6967-42fd-b680-741427253686",
+    "situation": "The user has not provided any information about their situation as a tenant, despite being prompted multiple times.",
+    "relevantLaws": [
+      "The Rent Control Act of 2009 (Republic Act No. 9653)",
+      "The Civil Code of the Philippines (Republic Act No. 386)",
+      "The Residential Rent Control Law (Batas Pambansa Blg. 877)"
+    ],
+    "recommendedSteps": [
+      "Provide detailed information about the rental concern or issue",
+      "Gather all relevant documents, such as the lease agreement and proof of rent payments",
+      "Contact the landlord or property manager to discuss the issue and try to resolve it amicably",
+      "Seek assistance from a local government agency or a lawyer specializing in tenant rights"
+    ],
+    "watchOutFor": [
+      "Unreasonable rent increases or demands",
+      "Threats of eviction without proper notice or due process",
+      "Failure to maintain the rental property or provide basic services",
+      "Signing a lease agreement with unfair or one-sided terms"
+    ],
+    "contacts": {
+      "PNP": "911 (emergency), 8888 (non-emergency reporting)",
+      "Barangay": "Local barangay hall hotline",
+      "PAO (Public Attorney's Office)": "(02) 8426-2075 / nearest district office",
+      "DSWD": "1343 Actionline",
+      "NBI": "(02) 8523-8231"
+    },
+    "nextAction": "Provide detailed information about the rental concern or issue to get personalized advice and guidance",
+    "totalTranscripts": 6,
+    "createdAt": 1764305663889
   }
 ]

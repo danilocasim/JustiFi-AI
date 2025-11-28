@@ -1504,5 +1504,77 @@
     "speaker": "AI",
     "text": "I understand your concern. Can you tell me if it was self-defense or an accident?",
     "timestamp": 1764292488221
+  },
+  {
+    "sessionId": "c1f5ae59-e6e7-4315-95cc-ec48762f0c8d",
+    "speaker": "USER",
+    "text": "what what should i do i got kicked out by my landlord",
+    "timestamp": 1764304605770
+  },
+  {
+    "sessionId": "c1f5ae59-e6e7-4315-95cc-ec48762f0c8d",
+    "speaker": "AI",
+    "text": "It looks like your issue falls under Tenancy law rather than your selected category. Would you like me to open a new conversation for that topic?",
+    "timestamp": 1764304605809
+  },
+  {
+    "sessionId": "c1f5ae59-e6e7-4315-95cc-ec48762f0c8d",
+    "speaker": "USER",
+    "text": "yeah",
+    "timestamp": 1764304618994
+  },
+  {
+    "sessionId": "c1f5ae59-e6e7-4315-95cc-ec48762f0c8d",
+    "speaker": "AI",
+    "text": "Let's discuss your tenancy issue. What were the reasons given by your landlord for eviction?",
+    "timestamp": 1764304619603
+  },
+  {
+    "sessionId": "c1f5ae59-e6e7-4315-95cc-ec48762f0c8d",
+    "speaker": "USER",
+    "text": "i didn't pay the monthly",
+    "timestamp": 1764304630147
+  },
+  {
+    "sessionId": "c1f5ae59-e6e7-4315-95cc-ec48762f0c8d",
+    "speaker": "AI",
+    "text": "Non-payment of rent is a common reason for eviction. Were you given any prior notice by your landlord before being kicked out?",
+    "timestamp": 1764304630536
+  },
+  {
+    "sessionId": "18c14830-6967-42fd-b680-741427253686",
+    "speaker": "USER",
+    "text": "hello",
+    "timestamp": 1764305058036
+  },
+  {
+    "sessionId": "18c14830-6967-42fd-b680-741427253686",
+    "speaker": "AI",
+    "text": "Hello, I'm your legal advisor. What's your concern as a tenant? Can you tell me more?",
+    "timestamp": 1764305058644
+  },
+  {
+    "sessionId": "18c14830-6967-42fd-b680-741427253686",
+    "speaker": "USER",
+    "text": "hello",
+    "timestamp": 1764305467734
+  },
+  {
+    "sessionId": "18c14830-6967-42fd-b680-741427253686",
+    "speaker": "AI",
+    "text": "Hello, I'm here to help with your tenant concerns. What seems to be the issue with your rental situation? Can you tell me more?",
+    "timestamp": 1764305468210
+  },
+  {
+    "sessionId": "18c14830-6967-42fd-b680-741427253686",
+    "speaker": "USER",
+    "text": "hello",
+    "timestamp": 1764305522854
+  },
+  {
+    "sessionId": "18c14830-6967-42fd-b680-741427253686",
+    "speaker": "AI",
+    "text": "Hello, how can I assist you with your tenant concerns today? What issue are you facing?",
+    "timestamp": 1764305523242
   }
 ]
