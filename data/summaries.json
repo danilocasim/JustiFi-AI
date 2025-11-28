@@ -538,5 +538,131 @@
     "nextAction": "Provide detailed information about the rental concern or issue to get personalized advice and guidance",
     "totalTranscripts": 6,
     "createdAt": 1764305663889
+  },
+  {
+    "sessionId": "349df80a-a75f-4722-ad9c-1560e0457fca",
+    "situation": "The user has not clearly stated their issue with their tenancy, as the conversation started with a mic test.",
+    "relevantLaws": [
+      "The Rent Control Act of 2009 (Republic Act No. 9653)",
+      "The Civil Code of the Philippines (Republic Act No. 386)",
+      "The Housing and Land Use Regulatory Board (HLURB) rules and regulations"
+    ],
+    "recommendedSteps": [
+      1,
+      "Clearly state the issue with the tenancy to get proper assistance",
+      2,
+      "Gather all relevant documents related to the tenancy",
+      3,
+      "Contact the landlord or property manager to try to resolve the issue amicably"
+    ],
+    "watchOutFor": [
+      "Any signs of harassment or intimidation from the landlord",
+      "Unlawful eviction or threats of eviction",
+      "Unreasonable rent increases or demands for payment"
+    ],
+    "contacts": {
+      "PNP": "911 (emergency), 8888 (non-emergency reporting)",
+      "Barangay": "Local barangay hall hotline",
+      "PAO (Public Attorney's Office)": "(02) 8426-2075 / nearest district office",
+      "DSWD": "1343 Actionline",
+      "NBI": "(02) 8523-8231"
+    },
+    "nextAction": "Clearly state the issue with the tenancy to get proper assistance",
+    "totalTranscripts": 2,
+    "createdAt": 1764305944901
+  },
+  {
+    "sessionId": "8defbc40-16a0-474d-8d17-631b5d8d7680",
+    "situation": "The user has a tenant issue but has not provided specific details about the problem.",
+    "relevantLaws": [
+      "The Rent Control Act of 2009 (Republic Act No. 9653)",
+      "The Civil Code of the Philippines (Republic Act No. 386)",
+      "The Philippine Lease Agreement provisions"
+    ],
+    "recommendedSteps": [
+      "Gather all relevant documents related to the tenancy, such as the lease agreement and any communication with the tenant",
+      "Consult with a lawyer or the Public Attorney's Office to understand your rights and obligations",
+      "Try to negotiate a resolution with the tenant, if possible",
+      "Consider filing a complaint with the appropriate authorities, such as the barangay or the court"
+    ],
+    "watchOutFor": [
+      "Any signs of illegal activities or threats from the tenant",
+      "Non-payment of rent or other breaches of the lease agreement",
+      "Prescription periods for filing complaints or taking legal action",
+      "Potential escalation of the dispute into a more serious conflict"
+    ],
+    "contacts": {
+      "PNP": "911 (emergency), 8888 (non-emergency reporting)",
+      "Barangay": "Local barangay hall hotline",
+      "PAO (Public Attorney's Office)": "(02) 8426-2075 / nearest district office",
+      "DSWD": "1343 Actionline",
+      "NBI": "(02) 8523-8231"
+    },
+    "nextAction": "Contact the Public Attorney's Office or a private lawyer to schedule a consultation and discuss the specifics of the tenant issue",
+    "totalTranscripts": 2,
+    "createdAt": 1764306087169
+  },
+  {
+    "sessionId": "76ea6fd3-230a-4834-96b2-767656a33921",
+    "situation": "Tenant was kicked out by landlord",
+    "relevantLaws": [
+      "Republic Act No. 9653 (Rent Control Act of 2009)",
+      "Republic Act No. 10365 (An Act to Further Strengthen the Rent Control Act of 2009)",
+      "Presidential Decree No. 1091 (Urban Land Reform Law)"
+    ],
+    "recommendedSteps": [
+      "Document all evidence of the eviction, including photos and witness statements",
+      "File a complaint with the Department of Human Settlements and Urban Development (DHSUD) or the Housing and Land Use Regulatory Board (HLURB)",
+      "Seek assistance from a lawyer specializing in tenancy law",
+      "Negotiate with the landlord to resolve the issue amicably, if possible"
+    ],
+    "contacts": {
+      "DHSUD": "(+632) 781-1103",
+      "HLURB": "(+632) 798-0344",
+      "National Housing Authority": "(+632) 441-8888"
+    },
+    "nextAction": "Document all evidence of the eviction and seek assistance from a lawyer specializing in tenancy law",
+    "totalDuration": 0,
+    "aiTalkTime": 0,
+    "humanTalkTime": 0,
+    "conversationTurns": 0,
+    "createdAt": 1764306133852
+  },
+  {
+    "sessionId": "76ea6fd3-230a-4834-96b2-767656a33921",
+    "situation": "The user is facing eviction from their landlord and is seeking guidance on the next steps to take. The reason for the eviction notice is currently unknown.",
+    "relevantLaws": [
+      "The Rent Control Act of 2009 (RA 9653)",
+      "The Civil Code of the Philippines (Article 1673)",
+      "The Urban Development and Housing Act of 1992 (RA 7279)"
+    ],
+    "recommendedSteps": [
+      1,
+      "Seek clarification from the landlord on the reason for the eviction notice",
+      2,
+      "Review the lease agreement to understand the terms and conditions",
+      3,
+      "Gather evidence to support the user's case, if necessary",
+      4,
+      "Consider filing a complaint with the appropriate authorities, such as the barangay or the Housing and Land Use Regulatory Board (HLURB)"
+    ],
+    "watchOutFor": [
+      "Any signs of harassment or intimidation from the landlord",
+      "Unreasonable demands or threats",
+      "Deadline for responding to the eviction notice",
+      "Potential risks to the user's safety and well-being"
+    ],
+    "contacts": {
+      "PNP": "911 (emergency), 8888 (non-emergency reporting)",
+      "Barangay": "Local barangay hall hotline",
+      "PAO (Public Attorney's Office)": "(02) 8426-2075 / nearest district office",
+      "DSWD": "1343 Actionline",
+      "NBI": "(02) 8523-8231",
+      "PWC or VAWC Desk": "for abuse cases",
+      "Cybercrime Hotlines": "(02) 723-0401 local 7483"
+    },
+    "nextAction": "Contact the landlord to seek clarification on the reason for the eviction notice and to understand the next steps to take.",
+    "totalTranscripts": 8,
+    "createdAt": 1764306154250
   }
 ]

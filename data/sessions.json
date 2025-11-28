@@ -908,5 +908,26 @@
     "status": "COMPLETED",
     "startTime": 1764305761467,
     "endTime": 1764305763635
+  },
+  {
+    "sessionId": "349df80a-a75f-4722-ad9c-1560e0457fca",
+    "category": "TENANT",
+    "status": "COMPLETED",
+    "startTime": 1764305931121,
+    "endTime": 1764305943618
+  },
+  {
+    "sessionId": "8defbc40-16a0-474d-8d17-631b5d8d7680",
+    "category": "TENANT",
+    "status": "COMPLETED",
+    "startTime": 1764306057984,
+    "endTime": 1764306085883
+  },
+  {
+    "sessionId": "76ea6fd3-230a-4834-96b2-767656a33921",
+    "category": "TENANT",
+    "status": "COMPLETED",
+    "startTime": 1764306100486,
+    "endTime": 1764306152850
   }
 ]

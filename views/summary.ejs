@@ -172,11 +172,11 @@
 
               <% if (summary && summary.recommendedSteps &&
               summary.recommendedSteps.length) { %>
-              <ol class="list-decimal pl-5 space-y-3 text-gray-700">
+              <ul class="list-decimal pl-5 space-y-3 text-gray-700">
                 <% summary.recommendedSteps.forEach(step => { %>
                 <li><%= step %></li>
                 <% }) %>
-              </ol>
+              </ul>
               <% } else { %>
               <p class="text-gray-600 italic">No actionable steps available.</p>
               <% } %>

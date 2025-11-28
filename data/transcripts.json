@@ -1576,5 +1576,77 @@
     "speaker": "AI",
     "text": "Hello, how can I assist you with your tenant concerns today? What issue are you facing?",
     "timestamp": 1764305523242
+  },
+  {
+    "sessionId": "349df80a-a75f-4722-ad9c-1560e0457fca",
+    "speaker": "USER",
+    "text": "mic test mic test mic test",
+    "timestamp": 1764305941444
+  },
+  {
+    "sessionId": "349df80a-a75f-4722-ad9c-1560e0457fca",
+    "speaker": "AI",
+    "text": "Can you hear me clearly now? What seems to be the issue with your tenancy?",
+    "timestamp": 1764305942060
+  },
+  {
+    "sessionId": "8defbc40-16a0-474d-8d17-631b5d8d7680",
+    "speaker": "USER",
+    "text": "can you hear me clearly",
+    "timestamp": 1764306080322
+  },
+  {
+    "sessionId": "8defbc40-16a0-474d-8d17-631b5d8d7680",
+    "speaker": "AI",
+    "text": "Yes, I can hear you clearly. How can I assist you with your tenant issue today?",
+    "timestamp": 1764306080906
+  },
+  {
+    "sessionId": "76ea6fd3-230a-4834-96b2-767656a33921",
+    "speaker": "USER",
+    "text": "so i got a problem with my",
+    "timestamp": 1764306111040
+  },
+  {
+    "sessionId": "76ea6fd3-230a-4834-96b2-767656a33921",
+    "speaker": "AI",
+    "text": "What seems to be the issue with your rental situation? Can you elaborate?",
+    "timestamp": 1764306111535
+  },
+  {
+    "sessionId": "76ea6fd3-230a-4834-96b2-767656a33921",
+    "speaker": "USER",
+    "text": "do i have a problem with my landlord she kick me out what should i do",
+    "timestamp": 1764306122691
+  },
+  {
+    "sessionId": "76ea6fd3-230a-4834-96b2-767656a33921",
+    "speaker": "AI",
+    "text": "It looks like your issue falls under Tenancy law rather than your selected category. Would you like me to open a new conversation for that topic?",
+    "timestamp": 1764306122709
+  },
+  {
+    "sessionId": "76ea6fd3-230a-4834-96b2-767656a33921",
+    "speaker": "USER",
+    "text": "yeah please do so",
+    "timestamp": 1764306132609
+  },
+  {
+    "sessionId": "76ea6fd3-230a-4834-96b2-767656a33921",
+    "speaker": "AI",
+    "text": "It looks like your issue falls under Tenancy law rather than your selected category. Would you like me to open a new conversation for that topic?",
+    "timestamp": 1764306132620
+  },
+  {
+    "sessionId": "76ea6fd3-230a-4834-96b2-767656a33921",
+    "speaker": "USER",
+    "text": "yes",
+    "timestamp": 1764306146920
+  },
+  {
+    "sessionId": "76ea6fd3-230a-4834-96b2-767656a33921",
+    "speaker": "AI",
+    "text": "I'll guide you through the process. What's the reason for your landlord's eviction notice?",
+    "timestamp": 1764306147403
   }
 ]
