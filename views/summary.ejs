@@ -23,11 +23,11 @@
       }
 
       .card {
-        @apply bg-white rounded-xl shadow-sm border border-gray-200 p-6 transition hover:shadow-md;
+        @apply bg-white rounded-xl shadow-sm border border-gray-200  transition hover:shadow-md;
       }
 
       .card-header {
-        @apply flex items-start gap-3 mb-4;
+        @apply flex items-start gap-3 mb-3;
       }
 
       .subtext {
@@ -48,9 +48,9 @@
 
   <%- include("partials/navbar") %>
 
-  <body class="bg-gray-50">
-    <div class="min-h-screen p-6">
-      <div class="max-w-7xl mx-auto container space-y-8">
+  <body class="bg-gray-50 px-3">
+    <div class="min-h-screen p-6 mx-0  lg:mx-40">
+      <div class="max-w-7xl  container space-y-8">
         <!-- Header -->
         <div class="border-b pb-6">
           <h1 class="text-4xl font-bold text-gray-900 mb-3 tracking-tight">
@@ -68,10 +68,11 @@
 
         <div class="grid grid-cols-1 lg:grid-cols-3 gap-8">
           <!-- Left Column -->
-          <div class="lg:col-span-2 space-y-8">
+          <div class="lg:col-span-2 space-y-3">
             <!-- Situation -->
-            <div class="card">
-              <div class="card-header">
+            <div class="card bg-white shadow-md rounded-xl p-6 border border-gray-200 
+    hover:shadow-lg transition-shadow duration-200">
+              <div class="card-header ">
                 <div class="text-blue-600">
                   <svg
                     class="w-6 h-6"
@@ -88,7 +89,7 @@
                   </svg>
                 </div>
                 <div>
-                  <h2 class="section-title">Your Situation</h2>
+                  <h2 class="section-title text-lg font-semibold text-gray-800 mb-2">Your Situation</h2>
                   <p class="subtext">A formal summary of your reported issue</p>
                 </div>
               </div>
@@ -105,17 +106,14 @@
             </div>
 
             <!-- Relevant Laws -->
-            <div class="card">
+            <div class="card bg-white shadow-md rounded-xl p-5 border border-gray-200 
+    hover:shadow-lg transition-shadow duration-200">
               <div class="card-header">
-                <svg
-                  class="w-6 h-6 text-blue-600"
-                  fill="currentColor"
-                  viewBox="0 0 48 48"
-                >
-                  <path d="M25 48a1 1 0 ..."></path>
-                </svg>
+                <svg class="w-6 h-6 text-blue-600" fill="none" stroke="currentcolor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m3 6l3 1m0 0l-3 9a5.002 5.002 0 006.001 0m6 7l3 9m6 7l6-2m6 2l3-1m-3 1l-3 9a5.002 5.002 0 006.001 0m18 7l3 9m-3-9l-6-2m0-2v2m0 16v5m0 16h9m3 0h3"></path>
+              </svg>
                 <div>
-                  <h2 class="section-title">Relevant Laws</h2>
+                  <h2 class="section-title text-lg font-semibold text-gray-800 mb-2">Relevant Laws</h2>
                   <p class="subtext">Philippine laws applicable to your case</p>
                 </div>
               </div>
@@ -137,7 +135,8 @@
             </div>
 
             <!-- Recommended Steps -->
-            <div class="card">
+            <div class="card bg-white shadow-md rounded-xl p-6 border border-gray-200 
+    hover:shadow-lg transition-shadow duration-200">
               <div class="card-header">
                 <svg
                   class="w-6 h-6 text-green-600"
@@ -153,7 +152,7 @@
                   />
                 </svg>
                 <div>
-                  <h2 class="section-title">Recommended Action Steps</h2>
+                  <h2 class="section-title text-lg font-semibold text-gray-800 mb-2 ">Recommended Action Steps</h2>
                   <p class="subtext">Clear steps to help you move forward</p>
                 </div>
               </div>
@@ -172,10 +171,9 @@
             </div>
 
             <!-- Red Flags -->
-            <div
-              class="card border border-red-200 bg-white rounded-xl shadow-sm"
-            >
-              <div class="flex items-start gap-3 p-5 border-b border-red-100">
+            <div class="card bg-white shadow-md rounded-xl p-6 border border-gray-200 
+    hover:shadow-lg transition-shadow duration-200">
+              <div class="card-header">
                 <svg
                   class="w-7 h-7 text-red-600 flex-shrink-0"
                   fill="none"
@@ -191,7 +189,7 @@
                 </svg>
 
                 <div>
-                  <h2 class="text-xl font-bold text-red-700 tracking-tight">
+                  <h2 class="text-lg font-semibold text-gray-800 mb-2 section-title">
                     Red Flags to Watch For
                   </h2>
                   <p class="text-sm text-slate-600 mt-1">
@@ -201,7 +199,7 @@
               </div>
 
               <% if (summary?.watchOutFor?.length) { %>
-              <ul class="p-5 space-y-3">
+              <ul class="p-2 space-y-3">
                 <% summary.watchOutFor.forEach(warning => { %>
                 <li
                   class="text-red-700 font-medium leading-relaxed flex items-start gap-2"
@@ -222,24 +220,11 @@
               <h2 class="section-title mb-4">Quick Actions</h2>
 
               <div class="space-y-3">
-                <button
-                  onclick="generateReport()"
-                  class="w-full bg-blue-600 hover:bg-blue-700 text-white font-medium py-3 px-4 rounded-lg flex items-center justify-center gap-2 transition"
-                >
-                  <svg
-                    class="w-4 h-4"
-                    fill="none"
-                    stroke="currentColor"
-                    viewBox="0 0 24 24"
-                  >
-                    <path d="M4 16v1a3 3..." />
-                  </svg>
-                  Download Full Report (DOCX)
-                </button>
+                
 
                 <a
                   href="/call"
-                  class="w-full block border border-gray-300 bg-white hover:bg-gray-50 text-gray-700 font-medium py-3 px-4 rounded-lg flex items-center justify-center gap-2 transition"
+                  class="w-full block border border-gray-300 bg-blue-600 hover:bg-blue-700 text-white font-medium py-3 px-4 rounded-lg flex items-center justify-center gap-2 transition"
                 >
                   <svg
                     class="w-4 h-4"
